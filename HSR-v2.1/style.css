@@ -1,10 +1,25 @@
-body {background-color: #252a35;}
-h1 {color: rgb(152, 206, 26);}
-
 h1 {
+  color: rgb(152, 206, 26);
+  font-size: 250%;
+}
+
+h6{color:#252a35 ;}
+
+body {
     font-family: "Averia Sans Libre", sans-serif;
     font-weight: 400;
     font-style: normal;
-    font-size: 350%;
-    color: rgb(89, 24, 109);
+    font-size: 200%;
+    color: rgb(125, 106, 131);
+
+    background-color: #252a35;
+    text-align: center;
   }
+
+#Gallagher {width: 40%;
+  border: 5px solid #555;
+}
+
+#HSR-Logo {width: 50%;
+  border: 5px solid #555;
+}
